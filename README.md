@@ -1,1 +1,2 @@
-<center>![louisebelcher_bobsburgers](https://user-images.githubusercontent.com/121826703/233208500-b3ae2bef-7275-459b-b00d-9e1ad66aafe3.png)<center>
+![louisebelcher_bobsburgers](https://user-images.githubusercontent.com/121826703/233209095-f5762925-4c19-4582-b4c3-e855c955d877.png)
+
