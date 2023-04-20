@@ -36,4 +36,6 @@ I enjoy reading, crocheting, learning new developments and watching Bob's Burger
 
 ## 🧮 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ysbllcby&theme=deepblue&border_radius=8)](https://git.io/streak-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysbllcby)](https://github.com/ysbllcby/github-readme-stats)
 
