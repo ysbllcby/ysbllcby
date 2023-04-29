@@ -18,7 +18,7 @@ I enjoy reading, crocheting, learning new developments and watching Bob's Burger
 <br/>
 
 #### Database:
-<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original-wordmark.svg" /> 
+SQL Plus 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" /> 
 <br />
 
